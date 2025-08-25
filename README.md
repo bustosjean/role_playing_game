@@ -67,6 +67,7 @@ git clone https://github.com/bustosjean/role_playing_game.git
 ## 🏆 Estado del proyecto
 
 ✅ Completado como parte del curso de freeCodeCamp.
+
 🔜 Futuras mejoras: añadir imágenes de personajes, música y animaciones.
 
 👨‍💻 Desarrollado por [Jean Bustos](https://github.com/bustosjean).
