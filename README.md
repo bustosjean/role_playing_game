@@ -9,7 +9,7 @@ Un mini juego RPG por turnos desarrollado con **HTML, CSS y JavaScript** como pa
 **Dragon Repeller** es un juego de texto interactivo en el que debes recorrer diferentes lugares, luchar contra monstruos y mejorar tu inventario hasta derrotar al **dragón final** que aterroriza la ciudad.  
 
 El jugador puede:  
-- 🪙 Ganar **oro** y **experiencia (XP)** al derrotar enemigos.  
+- ⚔ Ganar **oro** y **experiencia (XP)** al derrotar enemigos.  
 - 🛒 Comprar **armas** y **salud** en la tienda.  
 - 🕳️ Luchar contra monstruos en la **cueva**.  
 - 🐉 Enfrentarse al **dragón** para ganar la partida.  
@@ -38,13 +38,13 @@ El jugador puede:
 
 ## 🕹️ Cómo jugar
 
-- **1.-** Clona este repositorio:
+1. Clona este repositorio:
 ```bash
 git clone https://github.com/bustosjean/role_playing_game.git
 ```
-- **2.-** Abre el archivo index.html en tu navegador.
+1. Abre el archivo index.html en tu navegador.
 
-- **3.-** Usa los botones para explorar, luchar y progresar en la aventura.
+1. Usa los botones para explorar, luchar y progresar en la aventura.
 
 ---
 
@@ -54,21 +54,21 @@ git clone https://github.com/bustosjean/role_playing_game.git
 
 ## 🎯 Objetivo de aprendizaje
 
-- 🔹 Este proyecto me permitió aplicar:
+- Este proyecto me permitió aplicar:
 
-- 🔹 Manipulación del DOM con JavaScript.
+- Manipulación del DOM con JavaScript.
 
-- 🔹 Uso de event listeners en botones.
+- Uso de event listeners en botones.
 
-- 🔹 Manejo de arrays, objetos y funciones.
+- Manejo de arrays, objetos y funciones.
 
-- 🔹 Control de estados y flujo del juego.
+- Control de estados y flujo del juego.
 
 ## 🏆 Estado del proyecto
 
-- ✅ Completado como parte del curso de freeCodeCamp.
-- 🔜 Futuras mejoras: añadir imágenes de personajes, música y animaciones.
+✅ Completado como parte del curso de freeCodeCamp.
+🔜 Futuras mejoras: añadir imágenes de personajes, música y animaciones.
 
-👨‍💻 Desarrollado por ![Jean Bustos](https://github.com/bustosjean)
+👨‍💻 Desarrollado por [Jean Bustos](https://github.com/bustosjean).
 
 📚 Parte de mi formación en freeCodeCamp - JavaScript Algorithms and Data Structures.
